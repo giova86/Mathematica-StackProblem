@@ -1,5 +1,9 @@
 # Algoritmi Genetici - Stack Problem
 
+<p align="center">
+  <img src="images/title.png" width="600">
+</p>  
+
 Questo progetto implementa un Algoritmo Genetico (AG) per risolvere lo Stack Problem, ideato da John Koza nel 1992. L'obiettivo è comporre la parola "UNIVERSAL" impilando correttamente blocchi etichettati con lettere, inizialmente disposti in modo casuale su un tavolo.
 
 Il progetto è sviluppato in Mathematica, sfruttando le sue capacità di calcolo simbolico e la gestione di strutture dati ad albero per rappresentare gli individui dell’algoritmo.
